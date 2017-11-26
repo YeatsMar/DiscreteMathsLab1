@@ -1,0 +1,20 @@
+( \not ((A_{1} \or (A_{21} \and A_{22})) \eq ((B \and C_{1}) \imply F)))
+((A_{1} \and A_{2}) \imply B)
+((\not A_{2}) \imply B)
+hello
+(\not P)
+(A \eq B)
+(a \eq b)
+(A \imply\imply C)
+((A_{1} \and A_{2}) \imply B)
+((\not A_{1}) \and (A_{} \imply B))
+fadfsafasfsfs4432sf4d——『』【】【{}{P
+A
+A_{10085}
+(A)
+(A_B)
+a
+(A_{0} \or B_{1})
+(A_{0} \or B_{-1})
+(A_{0} \or B _{1})
+((\not ((\not A_{1}) \and (A_{5} \imply B))) \eq C)
